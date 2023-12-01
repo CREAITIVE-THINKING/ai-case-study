@@ -8,11 +8,11 @@ That is so funny! :joy:
 
 I need to highlight these ==very important words==.
 
-![runway](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.aitoolhunt.com%2Fthumbnails%2Fresearch.runwayml.com-gen2-1696879673.png&tbnid=vFon20EL2JoDEM&vet=12ahUKEwj9u_eane2CAxUsHWIAHSstCiMQMygaegUIARCVAQ..i&imgrefurl=https%3A%2F%2Fwww.aitoolhunt.com%2Ftool%2Fresearch.runwayml.com-gen2&docid=tP-Rjauw1KRbZM&w=1600&h=900&q=runway%20ml%20gen%202&ved=2ahUKEwj9u_eane2CAxUsHWIAHSstCiMQMygaegUIARCVAQ))
+![founders](https://imageio.forbes.com/specials-images/imageserve/638e419c20e8e6663493c5c9/Image-of-founders-Anastasis-Germanidis--Alejandro-Matamala-Ortiz-and-Crist-bal/0x0.jpg?format=jpg&crop=1849,1233,x0,y122,safe&width=1440)
 
-[Runway Gen-2 ](https://research.runwayml.com/gen2)
 
-## ==Overview and Origin==
+
+## == Overview and Origin ==
 - **Name of Company**: Runway AI Inc.
 - **Incorporation**: Founded in 2018.
 - **Founders**: Alejandro Matamala, Anastasis Germanidis, Cristóbal Valenzuela Barrera.
@@ -36,6 +36,8 @@ I need to highlight these ==very important words==.
 - **SPHINX's Unique Approach**: Combining model weights, tuning tasks, and visual embeddings.
 - **Sphinx Model Description on arXiv**: Emphasizing its complex structure.
 
+- [Runway Gen-2 ](https://research.runwayml.com/gen2)
+
 ## Unique Solution
 - **Runway.ml's Tools**: An impressive suite of innovative AI tools.
 - **Magic Wand**: AI tool for image manipulation.
@@ -43,7 +45,14 @@ I need to highlight these ==very important words==.
 - **Gen-2 by Runway**: The latest multimodal AI system for video generation.
 - **Gen-2 Footage Packs**: Offering pre-generated content for projects.
 - **Gen-2 on Runway Academy**: Providing educational resources on Gen-2.
-- **Impact of These Tools**: Setting a new standard in creative AI technology.
+- **Impact of These Tools**: Setting a new standard in creative AI technology.[^1]
+
+[^1]: Pika Labs is right on Runway's tail.
+
+[Pika Labs] (https://www.youtube.com/watch?v=_kZYlJpM0_g)
+
+> [!IMPORTANT]
+> Crucial information necessary for Runway to succeed.
 
 ## Competitors and Market Dynamics
 - **Major Competitors**: Adobe's AI initiatives, DeepArt, Lumen5.
