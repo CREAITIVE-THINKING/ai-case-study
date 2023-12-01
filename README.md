@@ -8,6 +8,8 @@ That is so funny! :joy:
 
 I need to highlight these ==very important words==.
 
+[Runway Gen-2 ](https://research.runwayml.com/gen2)
+
 ## ==Overview and Origin==
 - **Name of Company**: Runway AI Inc.
 - **Incorporation**: Founded in 2018.
